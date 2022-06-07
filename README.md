@@ -4,6 +4,10 @@
     🐈 Hello! 🐈
   </h1>
   
+</div>
+
+<div align = "center">
+  
   <h2>
      My name is mjaucher! I am learning kotlin.
   </h2> 
