@@ -11,6 +11,4 @@
   <img 
        src = "https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact"
   >
-  
-  <test alt = "mjaucher">
 </div>
