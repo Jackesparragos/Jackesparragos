@@ -12,3 +12,6 @@
        src = "https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact"
   />
 </div>
+
+[![stats](https://github-readme-stats.vercel.app/api?username=mjaucher&show_icons=true&locale=en)](https://github.com/mjaucher)
+[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact)](https://github.com/mjaucher)
