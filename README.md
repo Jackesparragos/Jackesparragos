@@ -1,23 +1,23 @@
 <div align = "center"> 
   
   <h1>
-    🐈 Hello! 🐈
+    
+      🐈 Hello! 🐈
+    
+    My name is mjaucher! I am learning kotlin.
+    
   </h1>
   
 </div>
 
-<div align = "center">
-  
-  <h2>
-     My name is mjaucher! I am learning kotlin.
-  </h2> 
+<div align = "center"> 
   
   <img 
        src = "https://github-readme-stats.vercel.app/api?username=mjaucher&show_icons=true&locale=en"
   />
-  
+ 
   <img 
        src = "https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact"
   />
-  
+
 </div>
