@@ -13,14 +13,12 @@
 <div align = "left"> 
   
   <p><img 
+       align="left"
        src = "https://github-readme-stats.vercel.app/api?username=mjaucher&show_icons=true&locale=en"
   /><p>
-
-</div>
-
-<div align = "right"> 
   
   <p><img 
+       align="center"
        src = "https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact"
   /><p>
 
