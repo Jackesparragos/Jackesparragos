@@ -12,16 +12,16 @@
 
 <div align = "left"> 
   
-  <img 
+  <p><img 
        src = "https://github-readme-stats.vercel.app/api?username=mjaucher&show_icons=true&locale=en"
-  />
+  /><p>
 
 </div>
 
 <div align = "right"> 
   
-  <img 
+  <p><img 
        src = "https://github-readme-stats.vercel.app/api/top-langs?username=mjaucher&show_icons=true&locale=en&layout=compact"
-  />
+  /><p>
 
 </div>
