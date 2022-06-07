@@ -4,9 +4,9 @@
     🐈 Hello! 🐈
   </h1>
   
-  <h1>
+  <h2>
      My name is mjaucher! I am learning kotlin.
-  </h1> 
+  </h2> 
   
   <img 
        src = "https://github-readme-stats.vercel.app/api?username=mjaucher&show_icons=true&locale=en"
