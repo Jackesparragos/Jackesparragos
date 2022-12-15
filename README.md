@@ -2,9 +2,9 @@
   
   <h1>
     
-      🐈 Hello! 🐈
+       🐈 Hello! 🐈
     
-    My name is mjaucher! I am learning Kotlin and Lua!
+    My name is Mjaucher!
     
   </h1>
   
